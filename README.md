@@ -92,7 +92,7 @@ This project demonstrates the ability to:
 
 **Complete Overview of Fund Performance**
 
-![Portfolio Dashboard](https://raw.githubusercontent.com/therealchimaga/smif-portfolio-analytics/main/outputs/portfolio_dashboard.png)
+![Portfolio Dashboard](https://raw.githubusercontent.com/therealchimaga/smif-portfolio-analytics/main/portfolio_dashboard.png)
 
 *Figure 1: Comprehensive portfolio dashboard showing key metrics, top holdings, P&L attribution, position scatter plot, and return distribution*
 
@@ -114,7 +114,7 @@ This project demonstrates the ability to:
 
 **Where Did the Returns Come From?**
 
-![Performance Attribution Waterfall](https://raw.githubusercontent.com/therealchimaga/smif-portfolio-analytics/main/outputs/pnl_attribution.png)
+![Performance Attribution Waterfall](https://raw.githubusercontent.com/therealchimaga/smif-portfolio-analytics/main/pnl_attribution.png)
 
 *Figure 2: P&L attribution waterfall chart showing contribution from each position*
 
@@ -143,7 +143,7 @@ This suggests potential over-diversification - too many small positions diluting
 
 #### Top Holdings Performance
 
-![Top Positions Detail](https://raw.githubusercontent.com/therealchimaga/smif-portfolio-analytics/main/outputs/top_positions_detail.png)
+![Top Positions Detail](https://raw.githubusercontent.com/therealchimaga/smif-portfolio-analytics/main/top_positions_detail.png)
 
 *Figure 3: Detailed view of top 10 positions showing return, contribution, and position size*
 
@@ -161,7 +161,7 @@ This suggests potential over-diversification - too many small positions diluting
 
 #### Risk/Return Scatter Plot
 
-![Position Scatter](https://raw.githubusercontent.com/therealchimaga/smif-portfolio-analytics/main/outputs/position_scatter_detail.png)
+![Position Scatter](https://raw.githubusercontent.com/therealchimaga/smif-portfolio-analytics/main/position_scatter_detail.png)
 
 *Figure 4: Risk/return profile for all 45 positions*
 
@@ -189,7 +189,7 @@ Bottom-Left (Low Return, Low Risk): [Small positions]
 
 ### Return Distribution
 
-![Return Distribution](https://raw.githubusercontent.com/therealchimaga/smif-portfolio-analytics/main/outputs/return_distribution.png)
+![Return Distribution](https://raw.githubusercontent.com/therealchimaga/smif-portfolio-analytics/main/return_distribution.png)
 
 *Figure 5: Histogram showing distribution of position-level returns*
 
