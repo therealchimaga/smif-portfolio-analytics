@@ -800,3 +800,47 @@ python analysis/example_usage.py
 ```
 
 **Questions? Open an issue or reach out on LinkedIn!**
+
+
+---
+
+## 📊 Portfolio Visualizations
+
+### Main Dashboard
+![dashboard](dashboard.png)
+
+### Portfolio Performance Dashboard
+![portfolio_dashboard](portfolio_dashboard.png)
+
+### Performance Attribution Waterfall
+![pnl_attribution](pnl_attribution.png)
+
+### Attribution Waterfall
+![attribution_waterfall](attribution_waterfall.png)
+
+### Top Positions Analysis
+![top_positions](top_positions.png)
+
+### Top Positions Detail
+![top_positions_detail](top_positions_detail.png)
+
+### Position Scatter Plot
+![position_scatter](position_scatter.png)
+
+### Position Scatter Detail
+![position_scatter_detail](position_scatter_detail.png)
+
+### Return Distribution
+![return_distribution](return_distribution.png)
+
+---
+
+## 📈 Key Metrics
+
+**Portfolio Value:** $452,462  
+**Total Return:** 85.91%  
+**Win Rate:** 84.4%  
+**Top 3 Contribution:** 41.7% of gains  
+**Profit Factor:** 44.04  
+
+---
